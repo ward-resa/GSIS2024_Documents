@@ -9,6 +9,7 @@ This is the Georgia Student Information Systems conference. The conference is ta
 ### 2024
 
 [SQL Beginners are Awesome](/gsis/2024/GSIS%202024%20-%20SQL%20Beginners%20are%20Awesome.pdf)
+
 [SQL Middling into the Awesome](/gsis/2024/GSIS%202024%20-%20SQL%20Middling%20into%20the%20Awesome.pdf)
 
 [Sample Data](/gsis/2024/SampleData/)
@@ -16,4 +17,5 @@ This is the Georgia Student Information Systems conference. The conference is ta
 ### 2023
 
 [SQL Beginners are Awesome](/gsis/2023/GSIS%202023%20-%20SQL%20Beginners%20are%20Awesome.pdf)
+
 [SQL Middling into the Awesome](/gsis/2023/GSIS%202023%20-%20SQL%20Middling%20into%20the%20Awesome.pdf)
